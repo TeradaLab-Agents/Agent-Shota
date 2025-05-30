@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamDominance",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Dominance",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Dominance",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Dominance",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Dominance",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Dominance",
+			"Value": 0.7,
+			"Blend": "Add"
+		}
+	]
+}
